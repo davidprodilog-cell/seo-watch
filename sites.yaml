@@ -1,0 +1,11 @@
+# Liste des sites à surveiller (veille SEO)
+# Ajoute un bloc par site. url = homepage HTTPS, sitemap = chemin relatif.
+
+sites:
+  - name: "Inès Avot — Psychothérapie"
+    url: "https://psychotherapie-ines-avot.fr"
+    sitemap: "/sitemap_index.xml"
+
+  # - name: "Nom du client"
+  #   url: "https://example.com"
+  #   sitemap: "/sitemap_index.xml"
