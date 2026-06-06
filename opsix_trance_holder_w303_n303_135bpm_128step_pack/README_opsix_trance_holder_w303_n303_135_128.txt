@@ -14,39 +14,39 @@ Keep W303 parts sparse under the acid line. Use N303 bass/lowseq clips when you 
 
 Files:
 - 00_ALL_TRACKS_REFERENCE_OPSIX_TRANCE_HOLDER_W303_N303_135_128.mid: all 36 opsix parts reference, no drums
-- 01_OPSIX_W303_DRONE_saturn_pressure__patch_Saturn_or_Saturn_Pad_135_128.mid: mode=W303, role=DRONE, suggested_patch=Saturn or Saturn Pad, note=Crystal Distortion pressure drone
-- 02_OPSIX_W303_DRONE_cloud_atlas_dark__patch_Cloud_Atlas_135_128.mid: mode=W303, role=DRONE, suggested_patch=Cloud Atlas, note=Drop Bass dark air layer
-- 03_OPSIX_W303_DRONE_cryptic_low_pad__patch_Cryptic_Pad_135_128.mid: mode=W303, role=DRONE, suggested_patch=Cryptic Pad, note=Network 23 low pressure
-- 04_OPSIX_W303_DRONE_planetarium_metal__patch_Planetarium_135_128.mid: mode=W303, role=DRONE, suggested_patch=Planetarium, note=metallic space drone
-- 05_OPSIX_W303_DRONE_blue_wave_cold__patch_Blue_Wave_135_128.mid: mode=W303, role=DRONE, suggested_patch=Blue Wave, note=cold floating back layer
-- 06_OPSIX_W303_DRONE_rising_drift_tension__patch_Rising_Drift_135_128.mid: mode=W303, role=DRONE, suggested_patch=Rising Drift, note=slow drift tension
-- 07_OPSIX_W303_PAD_stellar_hypno__patch_Stellar_Pad_135_128.mid: mode=W303, role=PAD, suggested_patch=Stellar Pad, note=hypnotic cold pad
-- 08_OPSIX_W303_PAD_desert_pad_mw__patch_Desert_Pad_MW_135_128.mid: mode=W303, role=PAD, suggested_patch=Desert Pad MW, note=dry wide warehouse pad
-- 09_OPSIX_W303_PAD_dreamstate_shadow__patch_Dreamstate_135_128.mid: mode=W303, role=PAD, suggested_patch=Dreamstate, note=shadow trance bed
-- 10_OPSIX_W303_PAD_shinjuku_fog__patch_Shinjuku_Alta_135_128.mid: mode=W303, role=PAD, suggested_patch=Shinjuku Alta, note=urban fog pad
-- 11_OPSIX_W303_PAD_saint_minor_float__patch_Saint_135_128.mid: mode=W303, role=PAD, suggested_patch=Saint, note=minor floating pad
-- 12_OPSIX_W303_PAD_crystal_pad_cold__patch_Neo_Grime_Crystal_Pad_135_128.mid: mode=W303, role=PAD, suggested_patch=Neo Grime Crystal Pad, note=cold crystal pad
-- 13_OPSIX_W303_LEAD_danger_cyborg_alarm__patch_Danger_Cyborg_135_128.mid: mode=W303, role=LEAD, suggested_patch=Danger Cyborg, note=short cyber alarm
-- 14_OPSIX_W303_LEAD_police_signal__patch_PL_Neo_Police_135_128.mid: mode=W303, role=LEAD, suggested_patch=PL Neo Police, note=rave police signal
-- 15_OPSIX_W303_LEAD_sirens_song_rise__patch_Sirens_Song_135_128.mid: mode=W303, role=LEAD, suggested_patch=Sirens Song, note=siren rise, use rarely
-- 16_OPSIX_W303_LEAD_visa_andromeda_call__patch_Visa_To_Andromeda_135_128.mid: mode=W303, role=LEAD, suggested_patch=Visa To Andromeda, note=space call alarm
-- 17_OPSIX_W303_BLEEP_eye_signal__patch_PL_Neo_Eye_135_128.mid: mode=W303, role=BLEEP, suggested_patch=PL Neo Eye, note=short signal loop
-- 18_OPSIX_W303_BLEEP_prism_ping__patch_PL_Neo_Prism_135_128.mid: mode=W303, role=BLEEP, suggested_patch=PL Neo Prism, note=FM prism ping
-- 19_OPSIX_W303_BLEEP_galaxy_bleep__patch_PL_Neo_Galaxy_135_128.mid: mode=W303, role=BLEEP, suggested_patch=PL Neo Galaxy, note=space bleep repeat
-- 20_OPSIX_W303_BLEEP_vector_harvest__patch_Vector_Harvest_135_128.mid: mode=W303, role=BLEEP, suggested_patch=Vector Harvest, note=modular signal harvest
-- 21_OPSIX_W303_STAB_bells_from_orbit__patch_Bells_From_Orbit_135_128.mid: mode=W303, role=STAB, suggested_patch=Bells From Orbit, note=orbit bell cycle mark
-- 22_OPSIX_W303_STAB_cosmic_strings_hit__patch_Cosmic_Strings_135_128.mid: mode=W303, role=STAB, suggested_patch=Cosmic Strings, note=short cosmic string hit
-- 23_OPSIX_W303_STAB_warehouse_minor__patch_Modular_MW_or_Modular_135_128.mid: mode=W303, role=STAB, suggested_patch=Modular MW or Modular, note=warehouse minor stab
-- 24_OPSIX_W303_STAB_metal_cycle_mark__patch_Rock_or_Moving_135_128.mid: mode=W303, role=STAB, suggested_patch=Rock or Moving, note=metallic cycle mark
-- 25_OPSIX_N303_BASS_contra_dark_roll__patch_Contra_135_128.mid: mode=N303, role=BASS, suggested_patch=Contra, note=N303 replacement dark roll
-- 26_OPSIX_N303_BASS_modular_low_drive__patch_Modular_135_128.mid: mode=N303, role=BASS, suggested_patch=Modular, note=N303 modular low drive
-- 27_OPSIX_N303_BASS_neuro_acid_response__patch_Neuro_135_128.mid: mode=N303, role=BASS, suggested_patch=Neuro, note=N303 neuro acid response
-- 28_OPSIX_N303_BASS_carbon_sub_drive__patch_Carbon_135_128.mid: mode=N303, role=BASS, suggested_patch=Carbon, note=N303 carbon sub drive
-- 29_OPSIX_N303_BASS_droid_machine_bass__patch_Droid_135_128.mid: mode=N303, role=BASS, suggested_patch=Droid, note=N303 droid machine bass
-- 30_OPSIX_N303_BASS_six_coast_grime__patch_BS_Neo_Grime_Six_Coast_135_128.mid: mode=N303, role=BASS, suggested_patch=BS Neo Grime Six Coast, note=N303 grime bass replacement
-- 31_OPSIX_N303_LOWSEQ_system8_pulse__patch_System_8_op_135_128.mid: mode=N303, role=LOWSEQ, suggested_patch=System-8-op, note=N303 low pulse loop
-- 32_OPSIX_N303_LOWSEQ_modular_mw_loop__patch_Modular_MW_135_128.mid: mode=N303, role=LOWSEQ, suggested_patch=Modular MW, note=N303 modular machine loop
-- 33_OPSIX_N303_LOWSEQ_layers_run_low__patch_2_Layers_Run_135_128.mid: mode=N303, role=LOWSEQ, suggested_patch=2 Layers Run, note=N303 layered low sequence
-- 34_OPSIX_N303_LOWSEQ_droid_orbit_low__patch_Drunk_Party_Droid_135_128.mid: mode=N303, role=LOWSEQ, suggested_patch=Drunk Party Droid, note=N303 droid orbit sequence
-- 35_OPSIX_N303_LOWSEQ_grime_wobble_low__patch_BS_Neo_Grime_Wobble_Bass_135_128.mid: mode=N303, role=LOWSEQ, suggested_patch=BS Neo Grime Wobble Bass, note=N303 wobble low sequence
-- 36_OPSIX_N303_LOWSEQ_dropbass_hard_loop__patch_BS_Neo_Grime_Saw_FM_Bass_135_128.mid: mode=N303, role=LOWSEQ, suggested_patch=BS Neo Grime Saw FM Bass, note=N303 Drop Bass hard loop
+- 01_OPSIX_W303_DRONE_saturn_pressure_135_128.mid: mode=W303, role=DRONE, suggested_patch=Saturn or Saturn Pad
+- 02_OPSIX_W303_DRONE_cloud_atlas_dark_135_128.mid: mode=W303, role=DRONE, suggested_patch=Cloud Atlas
+- 03_OPSIX_W303_DRONE_cryptic_low_pad_135_128.mid: mode=W303, role=DRONE, suggested_patch=Cryptic Pad
+- 04_OPSIX_W303_DRONE_planetarium_metal_135_128.mid: mode=W303, role=DRONE, suggested_patch=Planetarium
+- 05_OPSIX_W303_DRONE_blue_wave_cold_135_128.mid: mode=W303, role=DRONE, suggested_patch=Blue Wave
+- 06_OPSIX_W303_DRONE_rising_drift_tension_135_128.mid: mode=W303, role=DRONE, suggested_patch=Rising Drift
+- 07_OPSIX_W303_PAD_stellar_hypno_135_128.mid: mode=W303, role=PAD, suggested_patch=Stellar Pad
+- 08_OPSIX_W303_PAD_desert_pad_mw_135_128.mid: mode=W303, role=PAD, suggested_patch=Desert Pad MW
+- 09_OPSIX_W303_PAD_dreamstate_shadow_135_128.mid: mode=W303, role=PAD, suggested_patch=Dreamstate
+- 10_OPSIX_W303_PAD_shinjuku_fog_135_128.mid: mode=W303, role=PAD, suggested_patch=Shinjuku Alta
+- 11_OPSIX_W303_PAD_saint_minor_float_135_128.mid: mode=W303, role=PAD, suggested_patch=Saint
+- 12_OPSIX_W303_PAD_crystal_pad_cold_135_128.mid: mode=W303, role=PAD, suggested_patch=Neo Grime Crystal Pad
+- 13_OPSIX_W303_LEAD_danger_cyborg_alarm_135_128.mid: mode=W303, role=LEAD, suggested_patch=Danger Cyborg
+- 14_OPSIX_W303_LEAD_police_signal_135_128.mid: mode=W303, role=LEAD, suggested_patch=PL Neo Police
+- 15_OPSIX_W303_LEAD_sirens_song_rise_135_128.mid: mode=W303, role=LEAD, suggested_patch=Sirens Song
+- 16_OPSIX_W303_LEAD_visa_andromeda_call_135_128.mid: mode=W303, role=LEAD, suggested_patch=Visa To Andromeda
+- 17_OPSIX_W303_BLEEP_eye_signal_135_128.mid: mode=W303, role=BLEEP, suggested_patch=PL Neo Eye
+- 18_OPSIX_W303_BLEEP_prism_ping_135_128.mid: mode=W303, role=BLEEP, suggested_patch=PL Neo Prism
+- 19_OPSIX_W303_BLEEP_galaxy_bleep_135_128.mid: mode=W303, role=BLEEP, suggested_patch=PL Neo Galaxy
+- 20_OPSIX_W303_BLEEP_vector_harvest_135_128.mid: mode=W303, role=BLEEP, suggested_patch=Vector Harvest
+- 21_OPSIX_W303_STAB_bells_from_orbit_135_128.mid: mode=W303, role=STAB, suggested_patch=Bells From Orbit
+- 22_OPSIX_W303_STAB_cosmic_strings_hit_135_128.mid: mode=W303, role=STAB, suggested_patch=Cosmic Strings
+- 23_OPSIX_W303_STAB_warehouse_minor_135_128.mid: mode=W303, role=STAB, suggested_patch=Modular MW or Modular
+- 24_OPSIX_W303_STAB_metal_cycle_mark_135_128.mid: mode=W303, role=STAB, suggested_patch=Rock or Moving
+- 25_OPSIX_N303_BASS_contra_dark_roll_135_128.mid: mode=N303, role=BASS, suggested_patch=Contra
+- 26_OPSIX_N303_BASS_modular_low_drive_135_128.mid: mode=N303, role=BASS, suggested_patch=Modular
+- 27_OPSIX_N303_BASS_neuro_acid_response_135_128.mid: mode=N303, role=BASS, suggested_patch=Neuro
+- 28_OPSIX_N303_BASS_carbon_sub_drive_135_128.mid: mode=N303, role=BASS, suggested_patch=Carbon
+- 29_OPSIX_N303_BASS_droid_machine_bass_135_128.mid: mode=N303, role=BASS, suggested_patch=Droid
+- 30_OPSIX_N303_BASS_six_coast_grime_135_128.mid: mode=N303, role=BASS, suggested_patch=BS Neo Grime Six Coast
+- 31_OPSIX_N303_LOWSEQ_system8_pulse_135_128.mid: mode=N303, role=LOWSEQ, suggested_patch=System-8-op
+- 32_OPSIX_N303_LOWSEQ_modular_mw_loop_135_128.mid: mode=N303, role=LOWSEQ, suggested_patch=Modular MW
+- 33_OPSIX_N303_LOWSEQ_layers_run_low_135_128.mid: mode=N303, role=LOWSEQ, suggested_patch=2 Layers Run
+- 34_OPSIX_N303_LOWSEQ_droid_orbit_low_135_128.mid: mode=N303, role=LOWSEQ, suggested_patch=Drunk Party Droid
+- 35_OPSIX_N303_LOWSEQ_grime_wobble_low_135_128.mid: mode=N303, role=LOWSEQ, suggested_patch=BS Neo Grime Wobble Bass
+- 36_OPSIX_N303_LOWSEQ_dropbass_hard_loop_135_128.mid: mode=N303, role=LOWSEQ, suggested_patch=BS Neo Grime Saw FM Bass
