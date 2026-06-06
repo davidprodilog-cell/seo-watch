@@ -3,8 +3,9 @@ Designed as starting patterns for a TD-3 controlled from a MC-707.
 Each MIDI is format 0, one track, 480 PPQ, 8 bars / 128 sixteenth-note steps.
 
 Important TD-3 / MC-707 notes:
-- MIDI contains notes, velocity accents, portamento CC hints, filter/resonance CC hints, and some overlapped notes for slide-like legato.
+- MIDI contains notes, velocity accents, portamento CC hints, filter/resonance CC hints, and overlapped notes for slide-like legato.
 - The real acid character comes from the TD-3 settings: mono behavior, slide/portamento response, cutoff, resonance, env mod, decay, accent, and distortion.
+- Patterns marked slide use longer overlapping notes so the TD-3 has a clearer legato cue when triggered externally.
 - If a line feels too busy, mute a few notes on the MC-707 rather than adding more variation. This style works through repetition.
 - Start with cutoff around 9-11 o clock, resonance around 1-3 o clock, env mod around 12-3 o clock, decay short to medium.
 
